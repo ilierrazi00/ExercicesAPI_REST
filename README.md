@@ -1,5 +1,4 @@
-# ExercicesAPI_REST
-#  Projet FastAPI – API de personnages
+# ExercicesAPI_REST - FastAPI – API de personnages
 
 ## Réalisé par : Ilias
 
