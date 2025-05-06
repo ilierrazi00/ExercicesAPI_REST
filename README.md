@@ -1,7 +1,5 @@
 # ExercicesAPI_REST - FastAPI – API de personnages
 
-## Réalisé par : Ilias
-
 Ce projet est composé de 3 exercices réalisés avec FastAPI.
 
 ---
